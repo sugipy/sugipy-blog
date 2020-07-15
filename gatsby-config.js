@@ -3,12 +3,12 @@ module.exports = {
     title: `sugipy.com`,
     author: {
       name: `Hikaru Sugita`,
-      summary: `杉田光のブログです。こちらではゆるくまとめていきます。`,
+      summary: `こちらではゆるくまとめていきます。`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hikaru_sugita_`,
     },
   },
   plugins: [
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile_pic_kuroro`,
       },
     },
     `gatsby-plugin-react-helmet`,
