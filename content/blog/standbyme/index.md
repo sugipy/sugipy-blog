@@ -4,8 +4,6 @@ date: "2019-05-28T22:40:32.169Z"
 description: stand by meを見た感想を書いてあるのでネタバレ注意ですl。
 ---
 
-# stand by me をみた[WIP]
-
 ![standbyme](./standbyme.jpg)
 
 ## あらすじ
