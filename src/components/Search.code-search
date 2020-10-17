@@ -1,0 +1,9 @@
+# Query: こちらでは
+# ContextLines: 1
+
+1 件の結果 - 1 ファイル
+
+gatsby-config.js:
+  5        name: `すぎもっこり`,
+  6:       summary: `です。何卒よろしくおねがいします。`,
+  7      },
