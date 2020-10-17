@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `sugipy.com`,
     author: {
-      name: `Hikaru Sugita`,
-      summary: `こちらではゆるくまとめていきます。`,
+      name: `すぎもっこり`,
+      summary: `です。気合太郎です。`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `hikaru_sugita_`,
+      twitter: `sugimyon`,
     },
   },
   plugins: [

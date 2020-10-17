@@ -121,11 +121,9 @@ description: 経験知を元にユーザーインタビューの手引きをま�
 ### LAPRAS 式カジュアル面談のやり方（前編）
 
 - 杉田のインターンしていた会社の記事が採用面談向けだけど、有益すぎるからおすすめ
-
-[LAPRAS 式カジュアル面談のやり方（前編） - LAPRAS HR TECH LAB - 採用を科学するメディア](https://hr-tech-lab.lapras.com/knowhow/casual-interview/)
+  [LAPRAS 式カジュアル面談のやり方（前編） - LAPRAS HR TECH LAB - 採用を科学するメディア](https://hr-tech-lab.lapras.com/knowhow/casual-interview/)
 
 ### ユーザーインタビューの価値とは？良いインタビューを実施するために抑えるべきこと
 
 - GoodPatch の UX デザイン系のブログは全部を目を通しても良いくらい良記事が多い
-
-[ユーザーインタビューの価値とは？良いインタビューを実施するために抑えるべきこと｜ Blog ｜ Goodpatch グッドパッチ](https://goodpatch.com/blog/user-interview-ux-point/)
+  [ユーザーインタビューの価値とは？良いインタビューを実施するために抑えるべきこと｜ Blog ｜ Goodpatch グッドパッチ](https://goodpatch.com/blog/user-interview-ux-point/)
